@@ -2,7 +2,7 @@
 # Intentional insecure Terraform
 # - For scanner testing only
 # - Contains hard-coded credentials, secrets, public bucket, open SG, and vulnerable package installs
-###############################
+###############################]
 
 # ------------------------
 # PROVIDER WITH HARD-CODED KEYS (INSECURE)
